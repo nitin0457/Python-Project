@@ -49,6 +49,6 @@ All CSV reports and PNG charts are generated inside the `output/` folder automat
 | Below 35 | F | Fail |
 
 ## Author
-**Name:** [Hrishikesh Singh Sengar]
-**Course:** [Btech (CS)]
+**Name:** [Nitin Kumar]
+**Course:** [Btech (CSE)]
 **College:** [MPEC]
